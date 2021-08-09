@@ -1,30 +1,27 @@
-## Hi there 👋 I'm [Charalambos][website] but you can call me Harry 😀
+## Hi there 👋 I'm GAURAV 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=Gaurav972001.Gaurav972001) [![Github](https://img.shields.io/github/followers/Gaurav972001?label=Followers&logo=Github)](https://github.com/Gaurav972001)
 
 
 
 
-## 🎓 I'm an MSc Data Science student at the University of Edinburgh
+## 🎓 Under graduate student at the Delhi Technological University
 
-- 🔭 I’m currently developing a mobile app with Glideapps.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently developing a websites.
+- 🌱 I’m currently learning Reactjs.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love playing tennis and computer games.
+- ⚡ Fun fact: I love computer games.
 
 ## :email: Find me on:
 
 <!--
-[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="Gaurav972001 | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gaurav972001 | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
 
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/charalambos-ioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
-  <a href="https://dev.to/CharalambosIoannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://Gaurav972001.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/gaurav-chauhan-65a6341b1/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
