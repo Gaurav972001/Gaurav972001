@@ -50,11 +50,22 @@
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
-<div>
-<img style="display : inline;" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaurav972001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<a href="https://github.com/Gaurav972001/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.Gaurav972001.vercel.app/api?username=Gaurav972001&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/Gaurav972001/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Gaurav972001.vercel.app/api/top-langs/?username=Gaurav972001&layout=compact&theme=material-palenight" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav972001&theme=tokyonight)
-</div>
+<a href="https://github.com/Gaurav972001/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Gaurav972001.vercel.app/api/pin/?username=Gaurav972001&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/Gaurav972001/Gaurav972001.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Gaurav972001.vercel.app/api/pin/?username=Gaurav972001&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
 
 
 
