@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm GAURAV 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=Gaurav972001.Gaurav972001) [![Github](https://img.shields.io/github/followers/Gaurav972001?label=Followers&logo=Github)](https://github.com/Gaurav972001)
+![](https://visitor-badge.laobi.icu/badge?page_id=Gaurav972001.Gaurav972001)
 
 
 
