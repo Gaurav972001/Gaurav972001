@@ -6,7 +6,7 @@
 
 ## 🎓 Under graduate student at the Delhi Technological University
 
-- 🔭 I’m currently developing a websites.
+- 🔭 mern developer.
 - 🌱 I’m currently learning Reactjs.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
