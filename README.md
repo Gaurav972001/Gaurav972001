@@ -51,7 +51,8 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav972001&show_icons=true&theme=tokyonight)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav972001&theme=dark&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav972001&theme=tokyonight)
 </div>
 
