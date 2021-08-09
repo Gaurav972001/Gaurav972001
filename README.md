@@ -50,7 +50,7 @@
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats" style-"margin-right : 10px ">
+<a href="https://github.com/anuraghazra/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Gaurav972001&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
