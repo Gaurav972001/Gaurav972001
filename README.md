@@ -7,7 +7,6 @@
 ## 🎓 Under graduate student at the Delhi Technological University
 
 - 🔭 mern developer.
-- 🌱 I’m currently learning Reactjs.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love computer games.
